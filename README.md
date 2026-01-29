@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0135-candy](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
