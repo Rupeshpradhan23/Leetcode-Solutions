@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sliding Window
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
