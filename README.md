@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0146-lru-cache) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Enumeration
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0076-minimum-window-substring](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0796-rotate-string](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0796-rotate-string) |
