@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0279-perfect-squares](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0279-perfect-squares) |
