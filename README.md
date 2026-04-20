@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0056-merge-intervals) |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
