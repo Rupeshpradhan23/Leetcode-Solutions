@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0279-perfect-squares](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0392-is-subsequence](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
