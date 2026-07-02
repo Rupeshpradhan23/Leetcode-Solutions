@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0279-perfect-squares](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0279-perfect-squares) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0018-4sum) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0038-count-and-say) |
