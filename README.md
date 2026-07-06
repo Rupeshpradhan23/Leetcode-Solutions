@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sliding Window
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -264,4 +267,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
