@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0086-partition-list](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0148-sort-list) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0086-partition-list](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0146-lru-cache) |
