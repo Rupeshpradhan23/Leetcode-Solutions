@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
