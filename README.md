@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0279-perfect-squares](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
