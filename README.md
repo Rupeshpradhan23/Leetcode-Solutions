@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0119-pascals-triangle-ii](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0279-perfect-squares](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Rupeshpradhan23/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
